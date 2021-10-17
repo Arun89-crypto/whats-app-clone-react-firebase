@@ -1,9 +1,6 @@
-# WhatsApp clone (React + google firebase)
+# WhatsApp clone
 
-<div>
-  <img src="./readme_images/react.png"></img>
-  <img src="./readme_images/firebase.png"></img>
-</div>
+
 
 ## This is only compatible for desktop only
 ## Features
