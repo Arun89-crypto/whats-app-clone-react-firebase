@@ -6,19 +6,23 @@
               display: flex;
               flex-wrap: wrap;
             }
+            .ico{
+                color: white;
+                padding : 10px;
+            }
         </style>
          <div class="tags">
           <div align="center">
             <img src="./readme_images/react.png" width="50px"></img>
-            <p color="white">React</p>
+            <p class="ico">React</p>
           </div>
           <div align="center">
             <img src="./readme_images/firebase.png" width="30px"></img>
-            <p color="white">Firebase</p>
+            <p class="ico">Firebase</p>
           </div>
           <div align="center">
             <img src="./readme_images/redux.png" width="30px"></img>
-            <p color="white">Redux</p>
+            <p class="ico">Redux</p>
           </div>
          </div>
       </div>
