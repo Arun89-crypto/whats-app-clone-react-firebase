@@ -11,20 +11,20 @@
             .ico{
                 color: white;
                 padding : 10px;
-                background : black;
+                margin : 10px;
             }
         </style>
          <div class="tags">
-          <div align="center">
+          <div style="background:#61DBFB ">
             <img src="./readme_images/react.png"></img>
             <p class="ico">React</p>
           </div>
-          <div align="center">
-            <img src="./readme_images/firebase.png"></img>
+          <div>
+            <img src="./readme_images/firebase.png" style="background:#FFCB2B"></img>
             <p class="ico">Firebase</p>
           </div>
-          <div align="center">
-            <img src="./readme_images/redux.png"></img>
+          <div>
+            <img src="./readme_images/redux.png" style="background:#764abc"></img>
             <p class="ico">Redux</p>
           </div>
          </div>
