@@ -3,25 +3,28 @@
        <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             .tags{
-              display: flex;
-              flex-wrap: wrap;
+                display: flex;
+                flex-wrap: wrap;
+                height: 100%;
+                width: 100%;
             }
             .ico{
                 color: white;
                 padding : 10px;
+                background : black;
             }
         </style>
          <div class="tags">
           <div align="center">
-            <img src="./readme_images/react.png" width="50px"></img>
+            <img src="./readme_images/react.png"></img>
             <p class="ico">React</p>
           </div>
           <div align="center">
-            <img src="./readme_images/firebase.png" width="30px"></img>
+            <img src="./readme_images/firebase.png"></img>
             <p class="ico">Firebase</p>
           </div>
           <div align="center">
-            <img src="./readme_images/redux.png" width="30px"></img>
+            <img src="./readme_images/redux.png"></img>
             <p class="ico">Redux</p>
           </div>
          </div>
