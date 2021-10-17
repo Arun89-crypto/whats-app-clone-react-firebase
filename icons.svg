@@ -12,6 +12,7 @@
                 color: white;
                 padding : 10px;
                 margin : 10px;
+                font-weight : bold;
             }
             .flex_center{display:flex; align-items:center; justify-content:center;}
         </style>
