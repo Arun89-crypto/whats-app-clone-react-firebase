@@ -1,6 +1,6 @@
 # WhatsApp clone
 
-
+<img src="./icons.svg"></img>
 
 ## This is only compatible for desktop only
 ## Features
