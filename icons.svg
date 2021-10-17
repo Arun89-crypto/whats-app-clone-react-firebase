@@ -16,15 +16,15 @@
             .flex_center{display:flex; align-items:center; justify-content:center;}
         </style>
          <div class="tags">
-          <div style="background:#61DBFB" class="flex_center">
+          <div style="background:#61DBFB" class="flex_center ico">
             <img src="./readme_images/react.png"></img>
             <p class="ico">React</p>
           </div>
-          <div style="background:#FFCB2B" class="flex_center">
+          <div style="background:#FFCB2B" class="flex_center ico">
             <img src="./readme_images/firebase.png"></img>
             <p class="ico">Firebase</p>
           </div>
-          <div style="background:#764abc" class="flex_center">
+          <div style="background:#764abc" class="flex_center ico">
             <img src="./readme_images/redux.png"></img>
             <p class="ico">Redux</p>
           </div>
