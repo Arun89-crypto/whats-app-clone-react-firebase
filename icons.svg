@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 300 120" width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 300 120" width="500" height="200">
     <foreignObject width="100%" height="100%">
-       <div xmlns="http://www.w3.org/1999/xhtml">
+       <div>
         <style>
             .tags{
                 display: flex;
@@ -20,7 +20,6 @@
             .flex_center{display:flex; align-items:center; justify-content:center;}
         </style>
          <div class="tags">
-              <h1>Tech Used</h1>
               <div style="background:#61DBFB" class="flex_center ico">
                 <p>React</p>
               </div>
