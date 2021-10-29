@@ -1,4 +1,6 @@
 # WhatsApp clone
+[Link to website](https://whats-app-clone-react-firebase.web.app/rooms/G6S2f3WJrQwd3VRBMOib)
+
 
 <img src="./icons.svg"></img>
 
@@ -14,5 +16,4 @@
 <img src="./readme_images/2.png">
 <img src="./readme_images/3.png">
 
-##### Link not working due to firebse time limit
-[Link to Test](https://whats-app-clone-react-firebase.web.app/rooms/G6S2f3WJrQwd3VRBMOib)
+[Link to Website](https://whats-app-clone-react-firebase.web.app/rooms/G6S2f3WJrQwd3VRBMOib)
