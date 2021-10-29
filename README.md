@@ -1,4 +1,4 @@
-# WhatsApp clone
+# WhatsApp clone (React,Firebase and Redux)
 [Link to website](https://whats-app-clone-react-firebase.web.app/rooms/G6S2f3WJrQwd3VRBMOib)
 
 <h1 align="center">Built With</h1>
