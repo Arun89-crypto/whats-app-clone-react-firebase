@@ -18,16 +18,13 @@
         </style>
          <div class="tags">
           <div style="background:#61DBFB" class="flex_center ico">
-            <img src="./readme_images/react.png" class="ico"></img>
-            <p class="ico">React</p>
+            <p>React</p>
           </div>
           <div style="background:#FFCB2B" class="flex_center ico">
-            <img src="./readme_images/firebase.png" class="ico"></img>
-            <p class="ico">Firebase</p>
+            <p>Firebase</p>
           </div>
           <div style="background:#764abc" class="flex_center ico">
-            <img src="./readme_images/redux.png" class="ico"></img>
-            <p class="ico">Redux</p>
+            <p>Redux</p>
           </div>
          </div>
       </div>
