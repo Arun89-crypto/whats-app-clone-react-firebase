@@ -25,6 +25,11 @@ git clone https://github.com/Arun89-crypto/whats-app-clone-react-firebase.git
 ```sh 
 apiKey: "Your_API_key"
 ```
+* Run following commands in terminal
+```sh 
+npm install
+npm start
+```
 
 ## Features
 * Google Sign In using firebase
